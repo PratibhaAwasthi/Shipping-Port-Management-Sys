@@ -45,10 +45,10 @@ The country sends/receives containers through ships.
 
 * Employee: The Central Manager of the port hub will be responsible for taking requests from the countries and providing a status(a request is accepted, rejected, withdrawn, or pending) for export or import. A request is :
 
-    *Accepted - Port is available, and maximum container capacity has not been reached.
-    *Rejected - No trade agreement with the country for which the request is raised.
-    *Pending - Port not available, and next available date will be provided.
-    *Withdrawn - Country has withdrawn its request.
+    * Accepted - Port is available, and maximum container capacity has not been reached.
+    * Rejected - No trade agreement with the country for which the request is raised.
+    * Pending - Port not available, and next available date will be provided.
+    * Withdrawn - Country has withdrawn its request.
    
 The Port Manager will supervise the operations of the port.
 The docker will load/unload the containers to/from the ship.

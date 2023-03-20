@@ -50,14 +50,14 @@ The country sends/receives containers through ships.
     * Pending - Port not available, and next available date will be provided.
     * Withdrawn - Country has withdrawn its request.
    
-The Port Manager will supervise the operations of the port.
-The docker will load/unload the containers to/from the ship.
-Security will take care of transit code verification (if required).
+    The Port Manager will supervise the operations of the port.
+    The docker will load/unload the containers to/from the ship.
+    Security will take care of transit code verification (if required).
 
 2. Port Management functionality: A central Manager of the port hub will be responsible for keeping a central database of all information like the number of ships at the port, employees working at the port, operating sequence for a ship, etc., and can generate reports based on the information.
 For example, a ship is supposed to arrive with a container, unload it at the port, and depart. The operating sequence will be AL-PL-PU-DU-Done (AL= Arrive loaded, PL= Present loaded, PU = Present unloaded, DU = Depart unloaded ). The operating sequence will be different in other situations.
      
-Every port will have a port manager who will update the port’s and ship’s current status, the number of employees, etc. The port's status (availability) will depend on its maximum ship capacity and number of ship’s present. The ships will have information about their arrival date, expected departure date, their operating sequence, and the container type they are carrying. 
+    Every port will have a port manager who will update the port’s and ship’s current status, the number of employees, etc. The port's status (availability) will depend on its maximum ship capacity and number of ship’s present. The ships will have information about their arrival date, expected departure date, their operating sequence, and the container type they are carrying. 
 
 ## Entity-Relationship Diagram 
 

@@ -99,31 +99,31 @@ The Shipping Port Management System is a comprehensive solution to the challenge
 
 <img width="1280" alt="8_User_login_page" src="https://user-images.githubusercontent.com/82785478/226486643-f4a3b23b-2be3-484f-8e3b-8266ae57a44c.png">
 
-## User home page
+### User home page
 
 <img width="1280" alt="9_user_home_page" src="https://user-images.githubusercontent.com/82785478/226486663-e435aa0f-4ded-4117-9df1-9a2abb890889.png">
 
-## Port requesting
+### Port requesting
 
 <img width="1276" alt="10_raising_port_request_page" src="https://user-images.githubusercontent.com/82785478/226486700-c4fc2ff2-f91c-4524-bec9-62bdc1466a44.png">
 
-## Report requesting & types
+### Report requesting & types
 
 <img width="1280" alt="11_report" src="https://user-images.githubusercontent.com/82785478/226486748-1e461011-7896-4823-813a-704be94c6671.png">
 
-## Export-Import report & its history
+### Export-Import report & its history
 
 <img width="1280" alt="12_report" src="https://user-images.githubusercontent.com/82785478/226486800-239a076c-49c2-4488-8fb9-b7afb6aa00b4.png">
 
 <img width="1275" alt="13_history" src="https://user-images.githubusercontent.com/82785478/226486825-35af11e1-3c93-4edd-afdd-309c8cb3f927.png">
 
-## Tariff report & its history
+### Tariff report & its history
 
 <img width="1280" alt="14_tariff_report_form" src="https://user-images.githubusercontent.com/82785478/226486881-5e53bd14-95cc-45be-8d6d-5d2f16c617df.png">
 
 <img width="1280" alt="15_tariff_history" src="https://user-images.githubusercontent.com/82785478/226486893-3b09e0ba-6860-4aed-89d0-fd761dc2afba.png">
 
-## Checking Ship status 
+### Checking Ship status 
 
 <img width="1280" alt="16_ship_status" src="https://user-images.githubusercontent.com/82785478/226486933-202c4c30-0a34-40d5-833d-93ce604bf73e.png">
 

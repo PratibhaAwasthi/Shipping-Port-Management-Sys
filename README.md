@@ -71,11 +71,65 @@ The Shipping Port Management System is a comprehensive solution to the challenge
 
 ### Login page
 
-<img width="1274" alt="Login_page" src="https://user-images.githubusercontent.com/82785478/226483271-a94c6c7a-bb7b-4d17-8a5f-1cce893ab153.png">
+<img width="1274" alt="1_Login_page" src="https://user-images.githubusercontent.com/82785478/226486381-d05a71e3-3922-4de3-a816-9c051bff2731.png">
 
 ### Admin login page
 
-<img width="1268" alt="admin_login_page" src="https://user-images.githubusercontent.com/82785478/226483323-18325d55-706c-4129-beb5-93cb162e7757.png">
+<img width="1268" alt="2_admin_login_page" src="https://user-images.githubusercontent.com/82785478/226486415-f04f4a92-9c05-414e-8ac9-f2a27faaa494.png">
+
+### Admin Home page
+
+<img width="1275" alt="3_Admin_home_page" src="https://user-images.githubusercontent.com/82785478/226486440-ecae2ba3-906f-43b3-88b6-0d8366e489ea.png">
+
+### Admin report request page
+
+<img width="1269" alt="4_Admin_report_request_page" src="https://user-images.githubusercontent.com/82785478/226486501-f70744a5-223b-4a42-9c4c-776831b59d26.png">
+
+### Report 
+
+<img width="1280" alt="5_Report Retrieved_page" src="https://user-images.githubusercontent.com/82785478/226486536-8b7811f5-6d07-401b-8d70-3c5a2d947173.png">
+
+### Admin ship update status
+
+<img width="1280" alt="6_Admin_ship_status_update_page" src="https://user-images.githubusercontent.com/82785478/226486595-79010418-f58d-47e2-8b78-e65c399899f5.png">
+
+<img width="1280" alt="7_Status_updated" src="https://user-images.githubusercontent.com/82785478/226486616-98b42ac1-dfad-4dbd-be35-bb3e4ba1ff63.png">
+
+### User login page
+
+<img width="1280" alt="8_User_login_page" src="https://user-images.githubusercontent.com/82785478/226486643-f4a3b23b-2be3-484f-8e3b-8266ae57a44c.png">
+
+## User home page
+
+<img width="1280" alt="9_user_home_page" src="https://user-images.githubusercontent.com/82785478/226486663-e435aa0f-4ded-4117-9df1-9a2abb890889.png">
+
+## Port requesting
+
+<img width="1276" alt="10_raising_port_request_page" src="https://user-images.githubusercontent.com/82785478/226486700-c4fc2ff2-f91c-4524-bec9-62bdc1466a44.png">
+
+## Report requesting & types
+
+<img width="1280" alt="11_report" src="https://user-images.githubusercontent.com/82785478/226486748-1e461011-7896-4823-813a-704be94c6671.png">
+
+## Export-Import report & its history
+
+<img width="1280" alt="12_report" src="https://user-images.githubusercontent.com/82785478/226486800-239a076c-49c2-4488-8fb9-b7afb6aa00b4.png">
+
+<img width="1275" alt="13_history" src="https://user-images.githubusercontent.com/82785478/226486825-35af11e1-3c93-4edd-afdd-309c8cb3f927.png">
+
+## Tariff report & its history
+
+<img width="1280" alt="14_tariff_report_form" src="https://user-images.githubusercontent.com/82785478/226486881-5e53bd14-95cc-45be-8d6d-5d2f16c617df.png">
+
+<img width="1280" alt="15_tariff_history" src="https://user-images.githubusercontent.com/82785478/226486893-3b09e0ba-6860-4aed-89d0-fd761dc2afba.png">
+
+## Checking Ship status 
+
+<img width="1280" alt="16_ship_status" src="https://user-images.githubusercontent.com/82785478/226486933-202c4c30-0a34-40d5-833d-93ce604bf73e.png">
+
+<img width="1280" alt="17_Ship_status" src="https://user-images.githubusercontent.com/82785478/226486952-b7d4c324-57d9-49e7-afe6-b5c0ea1a7b45.png">
+
+<img width="1275" alt="18_status_Result" src="https://user-images.githubusercontent.com/82785478/226486964-eab41eef-85df-41fa-ae24-40016512b258.png">
 
 
 ## Requirements

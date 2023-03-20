@@ -67,6 +67,17 @@ For example, a ship is supposed to arrive with a container, unload it at the por
 
 The Shipping Port Management System is a comprehensive solution to the challenges of managing a standard hub with ten ports for shipping consignments. It offers a user-friendly interface for managing the operations of the port and provides a more efficient and automated system that can handle a large volume of requests and transactions in real-time. The system is estimated to take 1.5 months to complete, and the project timeline is divided into five phases to ensure its smooth implementation.
 
+## Demo
+
+### Login page
+
+<img width="1274" alt="Login_page" src="https://user-images.githubusercontent.com/82785478/226483271-a94c6c7a-bb7b-4d17-8a5f-1cce893ab153.png">
+
+### Admin login page
+
+<img width="1268" alt="admin_login_page" src="https://user-images.githubusercontent.com/82785478/226483323-18325d55-706c-4129-beb5-93cb162e7757.png">
+
+
 ## Requirements
 
 You need the following application installed on your system to run this project:
